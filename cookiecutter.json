@@ -1,7 +1,7 @@
 {
-    "project_name": "",
+    "project_name": "chicano",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "project_port": 8000,
+    "project_port": "8000",
     "version": "0.0.1",
     "python_version": "3.12"
 }
